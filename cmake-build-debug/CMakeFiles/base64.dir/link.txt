@@ -1,0 +1,1 @@
+/bin/g++ -g CMakeFiles/base64.dir/main.cpp.o CMakeFiles/base64.dir/Functions.cpp.o -o base64 

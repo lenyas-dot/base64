@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lenyas/CLionProjects/base64/Functions.h
+string
+/home/lenyas/CLionProjects/base64/string
+
+/home/lenyas/CLionProjects/base64/main.cpp
+iostream
+-
+Functions.h
+/home/lenyas/CLionProjects/base64/Functions.h
+
